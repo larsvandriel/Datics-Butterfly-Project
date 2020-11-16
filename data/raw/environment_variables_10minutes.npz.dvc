@@ -1,0 +1,3 @@
+outs:
+- md5: 32c2bb200e184dad0662348a19473bca
+  path: environment_variables_10minutes.npz
