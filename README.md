@@ -11,7 +11,9 @@ pip install -r requirements.txt
 This installs all the libraries necessary to run the notebooks smoothly. 
 
 ## Download the necessary data files
-It is also necessary to download the necessary data files for the notebooks to work with. First it is important to have read permissions for the Datics Google Drive, and being invited by e-mail, not by invite link. Then, you can open a command line interface in the `datics-butterfly-project` folder again and type in:
+**NOT RECOMMENDED** It is way easier to just download the raw data files and place them at their designated spots (data/raw)
+
+You can also download the necessary data files for the notebooks using DVC. First it is important to have read permissions for the Datics Google Drive, and being invited by e-mail, not by invite link. Then, you can open a command line interface in the `datics-butterfly-project` folder again and type in:
 ```
 dvc pull
 ```
