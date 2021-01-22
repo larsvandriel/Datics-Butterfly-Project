@@ -16,7 +16,7 @@ Here you can see how the SDM functions:
 
 ## Install the necessary Python libraries
 
-Make sure to have Python 3.8 with pip installed, and head over to the `datics-butterfly-project` repository on your machine. In that folder, open a command line interface, and type in:
+Make sure to have **Python 3.8** with pip installed, and head over to the `datics-butterfly-project` repository on your machine. In that folder, open a command line interface, and type in:
 
 ### With Python
 ```
