@@ -15,13 +15,24 @@ Here you can see how the SDM functions:
 # Transferability
 
 ## Install the necessary Python libraries
+
 Make sure to have Python 3.8 with pip installed, and head over to the `datics-butterfly-project` repository on your machine. In that folder, open a command line interface, and type in:
+
+### With Python
 ```
 pip install virtualenv
 virtualenv env_sdm
 env_sdm\Scripts\activate
 pip install -r requirements.txt
 ```
+
+### With Conda
+```
+conda create --name env_sdm pip python=3.8
+conda activate env_sdm
+pip install -r requirements.txt
+```
+
 This installs all the libraries necessary to run the notebooks smoothly. 
 
 ## Download the necessary data files
