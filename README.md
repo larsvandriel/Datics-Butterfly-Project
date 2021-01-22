@@ -8,6 +8,7 @@ Here you can find the necessairy steps to prepare the data for the model.
 Here the modeling takes place alongside its visualisations. In this notebook can three different kinds of ANN models, their optimalisations and its visualisations be found.
 
 Here you can see how the SDM functions:
+
 ![Model Flow](https://i.ibb.co/2MJW0TH/sdm-pipeline.png "Model Flow")  
 
 
